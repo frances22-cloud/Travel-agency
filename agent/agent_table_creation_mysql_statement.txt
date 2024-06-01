@@ -1,0 +1,11 @@
+create table agent(
+   id INT(11) NOT NULL AUTO_INCREMENT,
+   agent_code VARCHAR(8) NOT NULL,
+   first_name VARCHAR(64) NOT NULL,
+   last_name VARCHAR(64) NOT NULL,
+   agent_email VARCHAR(255) NOT NULL,
+   agent_phone_no VARCHAR(255) NOT NULL,
+   agnt_passwd VARCHAR(50) NOT NULL,
+   agent_image VARCHAR(100) NOT NULL,
+   PRIMARY KEY ( id )
+);

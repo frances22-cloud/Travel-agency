@@ -1,0 +1,24 @@
+th,td{
+	padding:20px;
+	border: 1px solid black;
+}
+  th{
+	background-color:#588c7e;
+	color:white;
+	
+}
+  td{
+	background-color:#fafafa;
+}
+  table{
+	width: 100%;
+	font-family:monospace;
+	border-collapse:collapse;
+	color:#d96459;
+	font-size:15px;
+	text-align:left;	
+}
+img{
+	border: 2px solid #2b2b2b;
+	border-radius: 10px;
+}

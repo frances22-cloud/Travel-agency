@@ -1,0 +1,27 @@
+* {
+    font-family: 'verdana';
+    background-color: #999;
+}
+table, th, td {
+    border: 1px solid;
+    padding: 15px;
+  text-align: left;
+  }
+  table {
+    width: 100%;
+  }
+  
+  th {
+    height: 70px;
+  }
+  a.delete-btn{
+    color: rgb(72, 95, 71);
+}
+a.edit-btn{
+    color: rgb(72, 95, 71);
+}
+a.style{
+  font: bold 15px Arial;
+  text-decoration: none;
+  color: rgb(72, 95, 71);
+}
